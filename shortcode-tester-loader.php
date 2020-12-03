@@ -1,12 +1,12 @@
 <?php
 
 /*
-Plugin Name: Shortcode Tester
-Plugin URI:  https://github.com/magenta-cuda/shortcode-tester
-Description: a simple shortcode tester
-Version:     1.2.2
-Author:      Magenta Cuda
-Author URI:  https://github.com/magenta-cuda
+Plugin Name: Classic Shortcode Tester
+Plugin URI:  https://github.com/basic-tech/classic-shortcode-tester
+Description: a simple shortcode tester for the TinyMCE editor
+Version:     1.0
+Author:      Basic Tech
+Author URI:  https://github.com/basic-tech
 License:     GPL2
 */
 
